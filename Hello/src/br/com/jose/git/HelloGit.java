@@ -13,6 +13,12 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Git");
 		System.out.println("José Renato");
+		System.out.println("Código adicionado por Guilherme Orlandini");
+	}
+	
+	public void imprimirRelatorio()
+	{
+		
 	}
 
 }
